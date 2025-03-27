@@ -9,8 +9,8 @@
     android:gravity="center">
 
     <ImageView
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
         android:src="@drawable/logo"
         android:contentDescription="App Logo"/>
 
@@ -28,7 +28,7 @@
         android:layout_height="wrap_content"
         android:text="Keep your data safe"
         android:textSize="16sp"
-        android:layout_marginBottom="32dp"/>
+        android:layout_marginBottom="50dp"/>
 
     <!--<com.google.android.material.textfield.TextInputLayout
         android:id="@+id/email_input_layout"
@@ -83,10 +83,10 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_margin="10sp"
-        android:text="LOG IN"
-        android:textColor="@color/black"
         android:backgroundTint="@color/yellow"
-        android:padding="14dp" />
+        android:padding="14dp"
+        android:text="LOG IN"
+        android:textColor="@color/black" />
 
     <!--<TextView
         android:id="@+id/forgot_password"
