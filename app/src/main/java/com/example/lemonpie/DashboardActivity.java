@@ -58,9 +58,7 @@ public class DashboardActivity extends AppCompatActivity {
         //setupDashboardCardClicks(analyticsCard, settingsCard, reportsCard, profileCard);
     }
 
-    private void setupDashboardCardClicks(CardView analyticsCard, CardView settingsCard,
-                                          CardView reportsCard, CardView profileCard) {
-
+    private void setupDashboardCardClicks(CardView analyticsCard, CardView settingsCard,  CardView reportsCard, CardView profileCard) {
         // Analytics card click
         if (analyticsCard != null) {
             analyticsCard.setOnClickListener(v -> {
