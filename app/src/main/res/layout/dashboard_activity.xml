@@ -138,7 +138,8 @@
                         android:layout_height="match_parent"
                         android:orientation="vertical"
                         android:gravity="center"
-                        android:padding="16dp">
+                        android:padding="16dp"
+                        android:background="@color/other">
 
                         <ImageView
                             android:layout_width="32dp"
@@ -177,7 +178,8 @@
                         android:layout_height="match_parent"
                         android:orientation="vertical"
                         android:gravity="center"
-                        android:padding="16dp">
+                        android:padding="16dp"
+                        android:background="@color/other">
 
                         <ImageView
                             android:layout_width="32dp"
@@ -216,7 +218,8 @@
                         android:layout_height="match_parent"
                         android:orientation="vertical"
                         android:gravity="center"
-                        android:padding="16dp">
+                        android:padding="16dp"
+                        android:background="@color/other">
 
                         <ImageView
                             android:layout_width="32dp"
@@ -255,7 +258,8 @@
                         android:layout_height="match_parent"
                         android:orientation="vertical"
                         android:gravity="center"
-                        android:padding="16dp">
+                        android:padding="16dp"
+                        android:background="@color/other">
 
                         <ImageView
                             android:layout_width="32dp"
