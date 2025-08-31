@@ -11,13 +11,13 @@
     <ImageView
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:src="@drawable/logo"
-        android:contentDescription="App Logo"/>
+        android:src="@drawable/logo1"
+        android:contentDescription="@string/app_logo"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome to LemonPie!"
+        android:text="@string/welcome_to_lemonpie"
         android:textSize="28sp"
         android:textStyle="bold"
         android:layout_marginTop="16dp"
@@ -26,7 +26,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Keep your data safe"
+        android:text="@string/keep_your_data_safe"
         android:textSize="16sp"
         android:layout_marginBottom="80dp"/>
 
@@ -45,14 +45,14 @@
         <ImageView
             android:layout_width="24dp"
             android:layout_height="24dp"
-            android:contentDescription="Google Logo"
+            android:contentDescription="@string/google_logo"
             android:src="@drawable/google"
             android:layout_marginEnd="8dp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Sign In With Google"
+            android:text="@string/sign_in_with_google"
             android:textColor="@color/black"
             android:textSize="16sp"
             android:textStyle="bold"/>

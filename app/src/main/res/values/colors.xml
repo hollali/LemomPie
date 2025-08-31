@@ -4,4 +4,10 @@
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#F3C623</color>
     <color name="offWhite">#F4F6FF</color>
+    <color name="primary">#33A1E0</color>
+    <color name="secondary">#213448</color>
+    <color name="other">#0B192C</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="background_dark">#121212</color>
 </resources>
